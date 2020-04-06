@@ -2,8 +2,6 @@
 //  WebEngine.h
 //  Demo
 //
-//  Created by Lakshmanan v on 11/21/13.
-//  Copyright (c) 2013 Innoppl. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>

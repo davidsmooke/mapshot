@@ -2,8 +2,6 @@
 //  CustomAlertViewController.m
 //  MapShot
 //
-//  Created by Innoppl Technologies on 03/04/14.
-//  Copyright (c) 2014 Innoppl Technologies. All rights reserved.
 //
 
 #import "CustomAlertViewController.h"
